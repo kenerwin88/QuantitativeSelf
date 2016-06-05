@@ -1,9 +1,7 @@
-﻿. $PSScriptRoot\Delete-Index.ps1
-. $PSScriptRoot\Record-Food.ps1
+﻿. $PSScriptRoot\Record-Food.ps1
 . $PSScriptRoot\Record-Water.ps1
 . $PSScriptRoot\Record-Weight.ps1
 . $PSScriptRoot\Record-Pushups.ps1
-Delete-Index
  
 ######################################################
 # 04/25/2016
